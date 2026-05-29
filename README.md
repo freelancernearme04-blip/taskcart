@@ -5,13 +5,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you # ShopEase E-Commerce App
 
 A Clean Architecture Flutter mobile application built using GetX for a machine test submission. The app connects to the open-source DummyJSON API.
 
-## 🚀 Features Implemented
 
 * **Splash Screen**: Shows an animation, checks for a stored token, and routes the user automatically.
 * **Login Screen**: Features form validation, text inputs, error handling, and a loading indicator.
